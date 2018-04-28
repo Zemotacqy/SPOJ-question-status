@@ -2,7 +2,7 @@ How To Run?
 
 Open the folder where the directory is saved. If Python is installed on your machine, proceed further, else install it and then proceed.
 1.    Open cmd and go the project folder.
-2.    Run the command : python getSubmissions@SPOJ.py <username1> <username2> ...................... <usernameN>
+2.    Run the command : python questionStatus@SPOJ.py 
 
 What does this Script Do?
 
